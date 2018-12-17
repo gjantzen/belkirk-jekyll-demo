@@ -41,4 +41,4 @@ fields:
   default: post
 pages:
 - _posts/test-post.md
-- _posts/test-post-1.md
+- _posts/2018-12-17-test-post-1.md
